@@ -1,5 +1,12 @@
-# keycard-manager-help
+# Keycard Manager (Help Docs)
 All documentation related to Keycard Manger for iOS
+
+## How-tos
+### General Usage
+https://gateway.pinata.cloud/ipfs/QmPzHmkYacfax6f5M4RSTLnBPnxwGz1ubQEGtd6epnPkrN
+
+### Loagin a CAP file to your Keycard
+https://gateway.pinata.cloud/ipfs/QmdGyCazzdpTozCMAL49Lw1nmF5kcsQcUBeYet5A5J6rqc
 
 ## Privacy Policy
 
