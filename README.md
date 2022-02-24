@@ -5,7 +5,7 @@ All documentation related to Keycard Manger for iOS
 ### General Usage
 https://gateway.pinata.cloud/ipfs/QmPzHmkYacfax6f5M4RSTLnBPnxwGz1ubQEGtd6epnPkrN
 
-### Loagin a CAP file to your Keycard
+### Loading a CAP file to your Keycard
 https://gateway.pinata.cloud/ipfs/QmdGyCazzdpTozCMAL49Lw1nmF5kcsQcUBeYet5A5J6rqc
 
 ### Encrypting/Decrypting files
