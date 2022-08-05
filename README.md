@@ -11,6 +11,10 @@ https://gateway.pinata.cloud/ipfs/QmdGyCazzdpTozCMAL49Lw1nmF5kcsQcUBeYet5A5J6rqc
 ### Encrypting/Decrypting files
 https://gateway.pinata.cloud/ipfs/QmVCXZmKN1UjYj11yEqEtW6cxMMgaRSrQczhixHzFmMLVT
 
+### Loading a U2F (FIDO2) applet to your Keycard
+https://gateway.pinata.cloud/ipfs/QmbiiKV7CcNJuS8EZ9sDasn7gNzRAuub9AUiz7uxxwHVEs
+https://gateway.pinata.cloud/ipfs/QmZaVbHXGT8XGLVXAof584L5zvPmcLjqTGTYjqzCqSorqC
+
 ## Privacy Policy
 
 Rodrigo Kreutz built the Keycard Manager app.
