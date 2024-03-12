@@ -15,6 +15,12 @@ https://gateway.pinata.cloud/ipfs/QmVCXZmKN1UjYj11yEqEtW6cxMMgaRSrQczhixHzFmMLVT
 https://gateway.pinata.cloud/ipfs/QmbiiKV7CcNJuS8EZ9sDasn7gNzRAuub9AUiz7uxxwHVEs
 https://gateway.pinata.cloud/ipfs/QmZaVbHXGT8XGLVXAof584L5zvPmcLjqTGTYjqzCqSorqC
 
+### Added initialization params (Keycard 3.1)
+https://gateway.pinata.cloud/ipfs/QmNtVYj6KuKPxbfoYvMoetgmYyRK97J4MXuo11WrqekTa5
+
+### Loading a key from a password
+https://gateway.pinata.cloud/ipfs/QmbewauFGLZV6Kdt5r298ggk1Lc2yL4eRtb7ds9NXwo5Jw
+
 ## Privacy Policy
 
 Rodrigo Kreutz built the Keycard Manager app.
